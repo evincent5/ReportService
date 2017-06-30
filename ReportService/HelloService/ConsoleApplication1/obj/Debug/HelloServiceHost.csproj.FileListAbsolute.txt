@@ -1,0 +1,6 @@
+c:\users\emmanuel\documents\visual studio 2015\Projects\HelloService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\emmanuel\documents\visual studio 2015\Projects\HelloService\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\emmanuel\documents\visual studio 2015\Projects\HelloService\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\emmanuel\documents\visual studio 2015\Projects\HelloService\ConsoleApplication1\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache
+c:\users\emmanuel\documents\visual studio 2015\Projects\HelloService\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\emmanuel\documents\visual studio 2015\Projects\HelloService\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
