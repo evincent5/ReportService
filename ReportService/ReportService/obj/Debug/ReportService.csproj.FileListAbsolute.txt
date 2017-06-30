@@ -1,0 +1,5 @@
+c:\users\emmanuel\documents\visual studio 2015\Projects\ReportService\ReportService\bin\Debug\ReportService.dll
+c:\users\emmanuel\documents\visual studio 2015\Projects\ReportService\ReportService\bin\Debug\ReportService.pdb
+c:\users\emmanuel\documents\visual studio 2015\Projects\ReportService\ReportService\obj\Debug\ReportService.csprojResolveAssemblyReference.cache
+c:\users\emmanuel\documents\visual studio 2015\Projects\ReportService\ReportService\obj\Debug\ReportService.dll
+c:\users\emmanuel\documents\visual studio 2015\Projects\ReportService\ReportService\obj\Debug\ReportService.pdb
